@@ -229,4 +229,4 @@ MIT — free to use, modify, and distribute.
 
 ---
 
-*crafted by **Sahil Maurya***
+*crafted by **Kairos***
